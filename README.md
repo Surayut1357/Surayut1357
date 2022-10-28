@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surayut1357&label=Profile%20views&color=0e75b6&style=flat" alt="surayut1357" /> </p>
 
+<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+
 - 🔭 I’m currently working on **-**
 
 - 🌱 I’m currently learning **ITI KmutNB**
