@@ -3,8 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=surayut1357&label=Profile%20views&color=0e75b6&style=flat" alt="surayut1357" /> </p>
 
-<img align="right" alt="coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/fqhKXT4turqxq8NaCs/giphy.gif">
+<img align="right" alt="coding" width="400" src="[https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif](https://i.pinimg.com/originals/86/ec/b4/86ecb4855009dde7431a5d12708ffb17.gif)">
 
 - 🔭 I’m currently working on **-**
 
